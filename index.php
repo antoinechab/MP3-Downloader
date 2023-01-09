@@ -14,6 +14,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
 
     <title>🎵 Music Downloader 🎵</title>
+    
 </head>
 <body>
     <div class="app">
